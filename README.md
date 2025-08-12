@@ -49,13 +49,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=fontanaa1&show_icons=true&count_private=true&rank_icon=github&theme=shadow_red&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=fontanaa1&show_icons=true&count_private=true&rank_icon=github&title_color=00cbcc&icon_color=00cbcc&text_color=ffffff&bg_color=0d1117&border_color=00cbcc&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanaa1&layout=compact&font=Iosevka&langs_count=16&theme=shadow_red"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanaa1&layout=compact&font=Iosevka&langs_count=16&title_color=00cbcc&text_color=ffffff&bg_color=0d1117&border_color=00cbcc"
   />
   <br>
   <br>
